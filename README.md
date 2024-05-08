@@ -4,4 +4,4 @@ En la tarea se cambió realizaron tareas de optimización, refactorización y do
 También se configuró GIT para el proyect, creando un repositorio público, realizando comentarios y mostrando el historial de versiones. 
 Además se insertaron comentarios y se generó la documentación Javadoc para todo el proyecto. 
 
-![](https://github.com/churumbel/tarea06codes/blob/main/tarea06codes/images/javadoc.png)
+![](https://github.com/churumbel/tarea06codes/blob/main/tarea06codes/javadoc.png)
